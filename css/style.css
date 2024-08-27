@@ -1,0 +1,58 @@
+*
+{
+    margin: 0px;
+}
+.capa1
+{
+       
+        background-color: blue;
+        padding: 50px;
+        margin: 50px;
+}
+.capa2
+{
+   
+    background-color: chartreuse;
+    height: 500px;
+    padding: 10px;
+}
+.capa3
+{
+    background-color: red;
+    
+    padding: 10px;
+    margin: 20px;
+
+}
+.capa4
+{
+    background-color: green;
+  
+    padding: 20px;
+    margin: 20px;
+
+}
+.capa5
+{
+    background-color: blueviolet;
+ 
+    padding: 10px;
+    margin: 20px;
+
+}
+.capa6
+{
+    background-color: cornflowerblue;
+    
+    padding: 30px;
+    margin: 20px;
+
+}
+.capa7
+{
+    background-color: cornsilk;
+   
+    padding: 10px;
+    margin: 20px;
+
+}
